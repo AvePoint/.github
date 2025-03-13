@@ -2,9 +2,11 @@
 
 ## 👋 About Us  
 AvePoint is a leading provider of cloud management solutions, specializing in Microsoft 365, SharePoint, and data governance. We help organizations unlock the full potential of cloud collaboration while ensuring data security, compliance, and seamless user experiences.  
-
-[AvePoint Logo](https://assets.avepoint.com/upload/images/logo/avepoint-d.svg)  
+  
 [Visit Our Official Website](https://www.avepoint.com) 🌐
+
+![ImageDemo](./bg.jpg)
+
 
 ## 🚀 Our Key Projects  
 ### 1. [AvePoint Cloud Governance Tool](https://github.com/avepoint/cloud-governance)  
@@ -16,8 +18,8 @@ AvePoint is a leading provider of cloud management solutions, specializing in Mi
 - **Tech Stack**: .NET, REST APIs, React  
 
 ## 📊 Stats & Metrics  
-![AvePoint GitHub Stats](https://github-readme-stats.vercel.app/api?username=avepoint&show_icons=true&theme=radical)  
-![AvePoint Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=avepoint&layout=compact&theme=vue)  
+
+TO BE DONE
 
 ## 🔧 Tech Stack We Love  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
@@ -28,6 +30,6 @@ AvePoint is a leading provider of cloud management solutions, specializing in Mi
 ## 👥 Join Our Community  
 - 🌟 Explore our open-source projects and contribute!  
 - 📢 Follow us for updates on cloud management best practices.  
-- 📫 Contact us: opensource@avepoint.com  
+- 📫 Contact us: devops@avepoint.com  
 
 Let’s build the future of cloud collaboration together! 🚀
