@@ -9,13 +9,13 @@ AvePoint is a leading provider of cloud management solutions, specializing in Mi
 
 
 ## 🚀 Our Key Projects  
-### 1. [AvePoint Cloud Governance Tool](https://github.com/avepoint/cloud-governance)  
-- **Description**: A powerful tool for managing Microsoft 365 governance, including access control, data lifecycle management, and compliance reporting.  
-- **Tech Stack**: C#, PowerShell, Azure Cloud  
+### 1. [AvePoint Cloud Governance Client](https://github.com/AvePoint/cloud-governance-client)  
+- **Description**: A powerful client for managing Microsoft 365 governance, including access control, data lifecycle management, and compliance reporting.  
+- **Tech Stack**: C#, PowerShell, Azure Cloud, AvePoint  
 
-### 2. [SharePoint Migration Accelerator](https://github.com/avepoint/sp-migration)  
-- **Description**: Simplify SharePoint migration with automated workflows, content transformation, and validation features.  
-- **Tech Stack**: .NET, REST APIs, React  
+### 2. [Fly Migration](https://github.com/AvePoint/FLY-Migration)  
+- **Description**: Simplify SharePoint migration with automated workflows, content transformation, and validation features.  Sample codes and PowerShell scripts to interact with FLY, a migration tool that helps you to migrate data to Office 365.
+- **Tech Stack**: .NET, REST APIs, Fly  
 
 ## 📊 Stats & Metrics  
 
