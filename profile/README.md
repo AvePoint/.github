@@ -5,7 +5,7 @@ AvePoint is a leading provider of cloud management solutions, specializing in Mi
   
 [Visit Our Official Website](https://www.avepoint.com) 🌐
 
-![ImageDemo](./bg.jpg)
+![ImageDemo](./bg.png)
 
 
 ## 🚀 Our Key Projects  
